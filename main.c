@@ -1,3 +1,11 @@
+/*
+Licensed: MIT License
+User Was Allowed to Sell or Copy this file however still included
+Developer Name. -Trisyefo
+
+Only works in Debian-Based Operating System. example: Ubuntu, Mint, Debian, and other... 
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
